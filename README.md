@@ -1,2 +1,2 @@
 # SwiftTuringMachine
-a turing machine
+a turing machine, project for 11th grade programming
